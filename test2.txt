@@ -1,1 +1,5 @@
 create second folder
+1. git add test2.txt -> staging area || working folder
+2. git commit -m "some message" -> conver working folder to git folder
+3. git status -> to find the folder all commit or not
+4. git push origin main -> push the file into the github repostry
